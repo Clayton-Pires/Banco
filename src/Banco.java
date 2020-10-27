@@ -40,7 +40,7 @@ public class Banco {
 			
 		} while (opcao != -1);
 		
-		
+		teclado.close();
 		
 	}
 
